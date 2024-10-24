@@ -12,7 +12,7 @@ add host, ip, alias di nagios
 ```python3 nagios.py```
 
 
-## copy file olt.cfg ke /usr/local/nagios/etc/objects/olt.cfg
+## copy file olt.cfg ke /usr/local/nagios/etc/objects/nagios.cfg
 
 ```reload service nagios```
 ```systemctl restart nagios```
