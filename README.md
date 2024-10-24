@@ -5,7 +5,7 @@ add host, ip, alias di nagios
 ```nano /usr/local/nagios/etc/nagios.cfg```
 
 ## tambahin line ini lalu save
-```cfg_file=/usr/local/nagios/etc/objects/iboss.cfg```
+```cfg_file=/usr/local/nagios/etc/objects/nagios.cfg```
 
 ## jalanin nagios.py
 
