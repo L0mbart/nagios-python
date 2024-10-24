@@ -7,7 +7,7 @@ hosts = [
 
 
 # nama file konfigurasi dot cfg nya
-config_file = "olt.cfg"
+config_file = "nagios.cfg"
 
 # template untuk host dan service
 host_template = """
