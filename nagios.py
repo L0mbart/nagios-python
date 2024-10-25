@@ -1,4 +1,4 @@
-# script buat nambahin monitoring / device iboss ke file olt.cfg biar cepet ga satu satu
+# script buat nambahin monitoring / device iboss ke file nagios.cfg biar cepet ga satu satu
 # dibikin dulu daftar IP, hostname, dan alias yang mau ditambahin
 hosts = [
     {"ip": "IP ADDRESS", "hostname": "HOSTNAME"},
